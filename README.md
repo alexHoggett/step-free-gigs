@@ -37,7 +37,7 @@ StepFreeGigs is a mobility app that allows users to find, buy tickets for, and t
 
 ## Running
 
-1.  You may need to sign up for an [Expo](https://expo.dev/) account to be able to properly view the app (not sure), also to view on your phone itself, download the Expo Client app.
+1.  To view on your phone itself, download the Expo Client app.
 
 2.  Start the metro bundler:
 
